@@ -1,0 +1,55 @@
+body {
+   background-color: #EEF2FF;
+
+}
+
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  background-color: #676FA3;
+  height: 80px;
+  padding-top: 10px;
+}
+
+nav a {
+  display: inline;
+  font-size: 30px;
+
+  padding: 10px;
+  text-decoration: none;
+  color: #EEF2FF;
+}
+
+nav a:hover {
+   background-color: #EEF2FF;
+   color: #676FA3;
+   cursor: pointer;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  padding-top: 170px;
+  padding-bottom: 50px;
+}
+
+article {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 300px;
+}
+
+#skills {
+  text-align: center;
+  border: 5px solid #fff;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+footer {
+  text-align: center;
+}
